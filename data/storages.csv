@@ -1,0 +1,10 @@
+name,produce,lat,lon,capacity,rate,tmin,tmax
+Koyambedu Fruit Hub,Fruits,13.069,80.192,4200,1.8,4,8
+Poonamallee Orchard Store,Fruits,13.047,80.092,2600,1.4,4,8
+Chengalpattu Fruit Depot,Fruits,12.694,79.979,3200,1.6,4,8
+Tambaram Greens Hub,Vegetables,12.927,80.121,3100,1.2,2,6
+Koyambedu Vegetable Market,Vegetables,13.073,80.194,2800,1.5,2,6
+Chengalpattu Growers Store,Vegetables,12.687,79.985,2300,1.1,2,6
+Madhavaram Milk Chiller,Milk,13.152,80.233,8000,0.9,1,4
+Tambaram Dairy Centre,Milk,12.922,80.116,4500,1.1,1,4
+Chengalpattu Dairy Tank,Milk,12.699,79.986,5600,0.8,1,4
